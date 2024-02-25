@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://viaduct.proxy.rlwy.net:11561/railway
+    username: root
+    password: 23cb5hGg-fG431adGb3hD1BCHb21HAde
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
